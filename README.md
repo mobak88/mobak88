@@ -4,8 +4,8 @@
 
 I am studying frontend development at Gokstad Akademiet and have almost finished my first year (finishing my last exam). I am passionate about the field and try to learn as much as possible everyday.
 
-- I’m currently learning nodejs and express
-- I have worked with JavaScript, React, SASS, html and css
+- I’m currently learning NodeJS and Express
+- I have worked with JavaScript, React, NextJS, SASS, HTML and CSS
 - Besides coding i like gaming fps games and sports mainly fotball
 
 <!--
