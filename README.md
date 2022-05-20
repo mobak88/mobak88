@@ -1,4 +1,10 @@
-### Hi there 👋
+### Frontend developer
+
+I am studying frontend development at Gokstad Akademiet and have almost finished my first year (finishing my last exam) with very good results. I am passionate about the field and try to learn as much as possible everyday.
+
+- I’m currently learning nodejs and express
+- I have worked with JavaScript, React, SASS, html and css
+- Besides coding i like gaming fps games and sports mainly fotball
 
 <!--
 **mobak88/mobak88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
