@@ -2,10 +2,10 @@
   Hi, i'm Mustafa 👋
 </h1>
 
-I am studying frontend development at Gokstad Akademiet and have almost finished my first year (finishing my last exam). I am passionate about the field and try to learn as much as possible everyday.
+I am studying frontend development at Gokstad Akademiet and have almost finished my last year (finishing my last exam). I am passionate about the field and try to learn as much as possible everyday.
 
-- I’m currently learning NodeJS and Express
-- I have worked with JavaScript, React, NextJS, SASS, HTML and CSS
+- I’m currently learning c# and .NET
+- I have worked with JavaScript, React, NextJS, SASS, HTML and CSS, NodeJS and Express
 - Besides coding i like gaming fps games and sports mainly fotball
 
 <!--
